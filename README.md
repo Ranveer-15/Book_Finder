@@ -1,4 +1,8 @@
 Hosted Link: https://ranveer-15.github.io/Book_Finder/
+
+
+
+
 📖 About This Project
 Book Finder is a web application that allows users to: ✅ View book categories dynamically 📂 ✅ Search for best-selling books 📚 ✅ Click on a category to filter books 🔍 ✅ Display top books with "Show More" functionality ✨
 It fetches real-time book data from an API and displays it dynamically using JavaScript DOM manipulation.
